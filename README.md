@@ -1,9 +1,16 @@
 # NodeJS-CRUD
-# Hecho por Diego Ángel Montes Moreno
-# Materia: Programación WEB
-# Perido Enero-Junio 2020
-# App de operaciones CRUD
-# Create Read Update Delete
-# Hecha en NODE.JS
-# Base de datos Mysql
-# First commit
+</br> Hecho por Diego Ángel Montes Moreno
+
+</br> Materia: Programación WEB
+
+</br> Perido Enero-Junio 2020
+
+</br> App de operaciones CRUD
+
+</br> Create Read Update Delete
+
+</br>Hecha en NODE.JS
+
+</br> Base de datos Mysql
+
+</br> First commit
